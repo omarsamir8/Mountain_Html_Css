@@ -1,0 +1,52 @@
+body {
+  background-image: url("../imgs/199194-beach-rainbows-sea-mountain-trees-sand-Hawaii-island-clouds-nature-landscape.jpg");
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+h1 {
+  margin-top: 120px;
+  font-size: 80px;
+}
+h2 {
+  margin-top: -30px;
+  font-size: 26px;
+}
+h3 {
+  width: 450px;
+  font-size: 24px;
+  margin: auto;
+  margin-top: -20px;
+}
+input {
+  width: 500px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-color: white;
+  font-size: 20px;
+  opacity: 0.4;
+}
+textarea {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-color: white;
+  font-size: 30px;
+  opacity: 0.4;
+}
+div {
+  margin-top: 20px;
+}
+button {
+  width: 85px;
+  height: 35px;
+  background-color: yellow;
+}

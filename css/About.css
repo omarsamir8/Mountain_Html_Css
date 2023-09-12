@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.container {
+  background-image: url("../imgs/wp9154749.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  height: 100vh;
+}
+.one {
+  background-color: rgb(252, 176, 176);
+  width: 1150px;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+.two {
+  text-align: center;
+  width: 270px;
+  height: 250px;
+  background-color: white;
+  margin-top: 35px;
+  margin-left: -100px;
+}
